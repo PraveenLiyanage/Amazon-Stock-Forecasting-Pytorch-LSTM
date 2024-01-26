@@ -20,3 +20,8 @@ Install the required libraries using the following command:
 ```bash
 pip install pandas numpy matplotlib torch
 ```
+
+## Clone this Repo:
+```bash
+!git clone https://github.com/PraveenLiyanage/Amazon-Stock-Forecasting-Pytorch-LSTM.git
+```
